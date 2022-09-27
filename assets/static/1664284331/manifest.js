@@ -1,0 +1,1 @@
+__NUXT_JSONP__("manifest.js", {routes:["\u002F","\u002Fmarken","\u002Fshop","\u002Fmarken\u002Fbosch","\u002Fkategorie\u002Fsmart-home-rollladensteuerung","\u002Fkategorie\u002Fsmart-home-sicherheit","\u002Fprodukt\u002Fbosch-smart-home-rollladensteuerung-2598738","\u002Fprodukt\u002Fbosch-smart-home-bewegungsmelder-weisz-1229442"]})
