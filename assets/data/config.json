@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "homespot24.de",
+    "hostname": "https://www.homespot24.de/",
+    "email": "homespot24.desurrealnetworks.io",
+    "organization": "homespot24.de",
+    "logoText": "Homespot24.de",
+    "title": "Smart Home",
+    "subline": "Der Online Shop f\u00fcr Smart Home",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "1229442",
+        "1229442",
+        "2598738",
+        "2598738",
+        "2598738",
+        "1229442"
+    ],
+    "winnerProducts": [
+        "1229442",
+        "2598738",
+        "2598738"
+    ],
+    "featuredCategories": [
+        "Smart Home Rollladensteuerung",
+        "Smart Home Sicherheit",
+        "Smart Home Rollladensteuerung",
+        "Smart Home Rollladensteuerung",
+        "Smart Home Rollladensteuerung",
+        "Smart Home Sicherheit"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Smart Home",
-        "featureText": "Your featured text goes here",
+        "featureText": "Das Sortiment von Smart Home umfasst verschiedene Ger\u00e4te und Systeme, mit denen Sie Ihr Zuhause intelligent gestalten k\u00f6nnen. Dazu geh\u00f6ren unter anderem vernetzte Heizungs-, Licht- und Sicherheitssysteme, die Sie per App oder Sprachsteuerung steuern k\u00f6nnen. Auch Haushaltsger\u00e4te wie K\u00fchlschr\u00e4nke, Waschmaschinen oder Roboterstaubsauger lassen sich mittlerweile vernetzen und steuern.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Smart Home Shop: Alles f\u00fcr Ihr Zuhause",
+            "metaDescription": "Willkommen bei unserem Smart Home Shop! Wir bieten alles, was Sie f\u00fcr Ihr intelligentes Zuhause ben\u00f6tigen. Vom Smart Hub \u00fcber Sensoren und Aktoren bis hin zu Zwischensteckdosen und Beleuchtung.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Smart Home: Die Zukunft des Wohnens",
+                    "text": "Smart Home ist ein Konzept f\u00fcr ein intelligentes Zuhause, in dem Haushaltsger\u00e4te, Haustechnik und Multimedia-Anwendungen miteinander vernetzt sind. Durch die Vernetzung der Ger\u00e4te k\u00f6nnen sie miteinander kommunizieren und sich gegenseitig steuern. So k\u00f6nnen zum Beispiel die Heizung und die Klimaanlage automatisch an die aktuelle Wetterlage anpassen oder die Beleuchtung je nach Tageszeit und Bedarf ein- und ausschalten. Auch die Sicherheit im Smart Home kann durch vernetzte Kameras und Alarmanlagen erh\u00f6ht werden."
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Smart Home Shop",
+            "metaDescription": "Der Smart Home Shop bietet alles, was Sie f\u00fcr Ihr intelligentes Zuhause ben\u00f6tigen. Komponenten, Systeme und Zubeh\u00f6r f\u00fcr die vernetzte Wohnung.",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Smart Home Hersteller",
+            "metaDescription": "Hersteller von Smart Home-Produkten, die Ihr Zuhause einfacher und komfortabler machen.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Smart Home: $PRODUKT f\u00fcr ein intelligentes Zuhause",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die intelligente L\u00f6sung f\u00fcr Ihr Zuhause. Egal ob Sicherheit, Beleuchtung oder Heizung - $PRODUKT passt sich Ihren Bed\u00fcrfnissen an.",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Smart Home: $KATEGORIE",
+        "defaultMetaDescription": "$KATEGORIE: Smart Home Ger\u00e4te & Zubeh\u00f6r - Jetzt online kaufen bei Conrad!\n\nConrad bietet eine gro\u00dfe Auswahl an Smart Home Ger\u00e4ten und Zubeh\u00f6r. Jetzt online bestellen und schnell geliefert bekommen!",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "$HERSTELLER ist Dein kompetenter Ansprechpartner f\u00fcr Smart Home. Wir bieten Dir eine gro\u00dfe Auswahl an Produkten und L\u00f6sungen, die Dein Zuhause noch komfortabler und sicherer machen.",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Smart Home",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Smart Home Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Smart Home Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
