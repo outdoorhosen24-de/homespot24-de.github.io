@@ -51,12 +51,15 @@
             "title": "Smart Home Shop: Alles für Ihr Zuhause",
             "metaDescription": "Willkommen bei unserem Smart Home Shop! Wir bieten alles, was Sie für Ihr intelligentes Zuhause benötigen. Vom Smart Hub über Sensoren und Aktoren bis hin zu Zwischensteckdosen und Beleuchtung.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Smart Home: Die Zukunft des Wohnens",
-                    "text": "Smart Home ist ein Konzept für ein intelligentes Zuhause, in dem Haushaltsgeräte, Haustechnik und Multimedia-Anwendungen miteinander vernetzt sind. Durch die Vernetzung der Geräte können sie miteinander kommunizieren und sich gegenseitig steuern. So können zum Beispiel die Heizung und die Klimaanlage automatisch an die aktuelle Wetterlage anpassen oder die Beleuchtung je nach Tageszeit und Bedarf ein- und ausschalten. Auch die Sicherheit im Smart Home kann durch vernetzte Kameras und Alarmanlagen erhöht werden."
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Smart Home: Die Zukunft des Wohnens",
+                        "text": "Smart Home ist ein Konzept für ein intelligentes Zuhause, in dem Haushaltsgeräte, Haustechnik und Multimedia-Anwendungen miteinander vernetzt sind. Durch die Vernetzung der Geräte können sie miteinander kommunizieren und sich gegenseitig steuern. So können zum Beispiel die Heizung und die Klimaanlage automatisch an die aktuelle Wetterlage anpassen oder die Beleuchtung je nach Tageszeit und Bedarf ein- und ausschalten. Auch die Sicherheit im Smart Home kann durch vernetzte Kameras und Alarmanlagen erhöht werden."
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Smart Home Shop",
