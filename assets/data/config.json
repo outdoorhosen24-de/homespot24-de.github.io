@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "homespot24.de",
     "hostname": "https://www.homespot24.de/",
     "email": "homespot24.de@surrealnetworks.io",
     "organization": "homespot24.de",
     "logoText": "Homespot24.de",
-    "title": "Smart Home",
-    "subline": "Der Online Shop für Smart Home",
+    "title": "Smart Home Shop",
+    "subline": "Der Online-Shop für Ihr sicheres & smartes Zuhause",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Smart Home",
-        "featureText": "Das Sortiment von Smart Home umfasst verschiedene Geräte und Systeme, mit denen Sie Ihr Zuhause intelligent gestalten können. Dazu gehören unter anderem vernetzte Heizungs-, Licht- und Sicherheitssysteme, die Sie per App oder Sprachsteuerung steuern können. Auch Haushaltsgeräte wie Kühlschränke, Waschmaschinen oder Roboterstaubsauger lassen sich mittlerweile vernetzen und steuern.",
+        "featureText": "Willkommen in unserem Shop! Sie wollen Ihr Zuhause ein Stück sicherer machen? Dann sind Sie hier genau richtig! Wir bieten Ihnen Rollladensteuerungen und Bewegungsmelder der Marke Bosch. Unsere Produkte sind Smart-Home-fähig, sodass sie einfach zu bedienen sind und auch noch Spaß machen! Überzeugen Sie sich von unserem Angebot!",
         "index": {
-            "title": "Smart Home Shop: Alles für Ihr Zuhause",
-            "metaDescription": "Willkommen bei unserem Smart Home Shop! Wir bieten alles, was Sie für Ihr intelligentes Zuhause benötigen. Vom Smart Hub über Sensoren und Aktoren bis hin zu Zwischensteckdosen und Beleuchtung.",
+            "title": "homespot24.de | Tolle Produkte für ein smartes Zuhause",
+            "metaDescription": "Bei uns erhältlich! | Rollladensteuerungen & Bewegungsmelder der Marke Bosch | Top Qualität, günstiger Preis, sofort verfügbar & schnell geliefert!",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Smart Home Shop",
-            "metaDescription": "Der Smart Home Shop bietet alles, was Sie für Ihr intelligentes Zuhause benötigen. Komponenten, Systeme und Zubehör für die vernetzte Wohnung.",
+            "title": "Der Smart Home Shop",
+            "metaDescription": "Entdecken Sie die Rollladen- und Sensortechnik von Bosch | Der Shop für intelligentes & sicheres Wohnen. Unsere Produkte vereinen Qualität, Sicherheit und Spaß!",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Smart Home Hersteller",
-            "metaDescription": "Hersteller von Smart Home-Produkten, die Ihr Zuhause einfacher und komfortabler machen.",
+            "title": "Smart-Home-Produkte | Top Hersteller",
+            "metaDescription": "Smart-Home-Lösungen vom renommierten Hersteller Bosch! | Bosch steht für Qualität und Bedienkomfort | Machen Sie Ihr Zuhause sicher!",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "Smart Home: $PRODUKT für ein intelligentes Zuhause",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die intelligente Lösung für Ihr Zuhause. Egal ob Sicherheit, Beleuchtung oder Heizung - $PRODUKT passt sich Ihren Bedürfnissen an.",
+        "defaultTitle": "$PRODUKT - bestellen auf homepot24.de",
+        "defaultMetaDescription": "Smarte Produkte wie $PRODUKT vom renommierten Hersteller $HERSTELLER in unserem Shop! | $KATEGORIE: Die smarte Lösung für Ihr Zuhause!",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Smart Home: $KATEGORIE",
-        "defaultMetaDescription": "$KATEGORIE: Smart Home Geräte & Zubehör - Jetzt online kaufen bei Conrad!\n\nConrad bietet eine große Auswahl an Smart Home Geräten und Zubehör. Jetzt online bestellen und schnell geliefert bekommen!",
+        "defaultTitle": "$KATEGORIE | homespot24.de",
+        "defaultMetaDescription": "Smarte Produkte der Kategorie $KATEGORIE. | Bequem von zuhause für zuhause bestellen. | Smarte Produkte für ein sicheres Gefühl!",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER ist Dein kompetenter Ansprechpartner für Smart Home. Wir bieten Dir eine große Auswahl an Produkten und Lösungen, die Dein Zuhause noch komfortabler und sicherer machen.",
+        "defaultTitle": "Smart Home Geräte von $HERSTELLER",
+        "defaultMetaDescription": "Smart-Home-Lösungen vom renommierten Hersteller $HERSTELLER! | Bosch steht für Qualität und Bedienkomfort | Machen Sie Ihr Zuhause sicher!",
         "defaultRobots": "index, follow",
         "brands": [
             {
