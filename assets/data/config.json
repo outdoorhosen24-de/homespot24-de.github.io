@@ -52,11 +52,19 @@
             "metaDescription": "Bei uns erhältlich! | Rollladensteuerungen & Bewegungsmelder der Marke Bosch | Top Qualität, günstiger Preis, sofort verfügbar & schnell geliefert!",
             "robots": "index, follow",
             "seotext": {
-                "published": false,
+                "published": true,
                 "content": [
                     {
-                        "title": "Smart Home: Die Zukunft des Wohnens",
-                        "text": "Smart Home ist ein Konzept für ein intelligentes Zuhause, in dem Haushaltsgeräte, Haustechnik und Multimedia-Anwendungen miteinander vernetzt sind. Durch die Vernetzung der Geräte können sie miteinander kommunizieren und sich gegenseitig steuern. So können zum Beispiel die Heizung und die Klimaanlage automatisch an die aktuelle Wetterlage anpassen oder die Beleuchtung je nach Tageszeit und Bedarf ein- und ausschalten. Auch die Sicherheit im Smart Home kann durch vernetzte Kameras und Alarmanlagen erhöht werden."
+                        "title": "Willkommen bei Homespot24 - Ihr Experte für Smart Home",
+                        "text": "Herzlich willkommen auf der Startseite von Homespot24. Wir sind Ihr Experte für alle Fragen rund um das Thema Smart Home. Mit uns bringen Sie Ihr Zuhause ins 21. Jahrhundert und genießen eine moderne und komfortable Wohnumgebung. Unsere Produkte und Lösungen bieten Ihnen einfache und intuitive Bedienung, höchste Sicherheit und maximale Flexibilität. Ob Sie Ihre Rollläden automatisch steuern möchten oder Ihr Zuhause sicher vor Einbrechern schützen wollen, bei uns finden Sie garantiert die passende Lösung. Entdecken Sie jetzt unser umfangreiches Sortiment und erleben Sie die Vorteile des Smart Home."
+                    },
+                    {
+                        "title": "Smart Home Rollladensteuerung",
+                        "text": "Mit einer <a href=\"/kategorie/smart-home-rollladensteuerung/\" title=\"Smart Home Rollladensteuerung\">Smart Home Rollladensteuerung</a> von homespot24.de können Sie bequem Ihre Rollläden und Jalousien steuern. Ob per App, Stimme oder manuell - wir bieten Ihnen eine große Auswahl an innovativen Lösungen für ein smartes Zuhause. Vergessen Sie lästiges manuelles Bedienen und erleben Sie ein völlig neues Level an Komfort. Bestellen Sie jetzt Ihre Smart Home Rollladensteuerung bei uns."
+                    },
+                    {
+                        "title": "Smart Home Sicherheit",
+                        "text": "Mit einer <a href=\"/kategorie/smart-home-sicherheit/\" title=\"Smart Home Sicherheit\">Smart Home Sicherheit</a> von homespot24.de können Sie Ihr Zuhause jederzeit und überall sicher überwachen. Ob per Kamera, Bewegungsmelder oder Alarmanlage - wir bieten Ihnen eine große Auswahl an hochwertigen Produkten für ein sicheres Zuhause. Verlassen Sie sich auf unsere erstklassigen Lösungen und schützen Sie Ihr Zuhause effektiv vor Einbrechern. Bestellen Sie jetzt Ihre Smart Home Sicherheit bei uns."
                     }
                 ]
             }
